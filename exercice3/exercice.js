@@ -1,3 +1,3 @@
-$("selector").event(function(){
+$("*").event(function(){
     $(this).hide();
 });
